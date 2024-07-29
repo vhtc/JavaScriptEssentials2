@@ -3,5 +3,5 @@ let contact = {
 };
 
 contact["first name"] = "Tim"
-contact.first name = "Tim"
-contact."first name" = "Tim"
+// contact.first name = "Tim" 
+// contact."first name" = "Tim"
