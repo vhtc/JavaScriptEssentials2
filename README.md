@@ -1,1 +1,1 @@
-# JavaScriptEssentials2
+# JavaScript Essentials 2
