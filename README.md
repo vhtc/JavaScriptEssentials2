@@ -1,6 +1,6 @@
 # JavaScript Essentials 2
 
-## Section 8
+## Section 10 PROTOTYPES
 
 ### https://edube.org/learn/jsa/section-8-property-and-object-configuration-flags-and-so-on
 
